@@ -1,0 +1,13 @@
+.project
+.settings
+.classpath
+/.gradle/
+/.idea/
+/gradle/
+/build/
+/bin/
+gradlew
+gradlew.bat
+/env
+.DS_Store
+__pycache__/
